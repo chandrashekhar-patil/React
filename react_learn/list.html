@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <title>List in React</title>
+
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+  </head>
+
+  <body>
+    <script>
+      let ListInReact = React.createElement(
+        "ol",
+        {
+          type: "a",
+          style: {
+            color: "red",
+            backgroundColor: "yellow",
+          },
+        },
+        [
+          React.createElement("li", {}, "Apple"),
+          React.createElement("li", {}, "Banana"),
+          React.createElement("li", {}, "Perry"),
+        ]
+      );
+
+      ReactDOM.render(ListInReact, document.querySelector("body"));
+    </script>
+  </body>
+</html>
