@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Container{
+    display: flex;
+    background-color: black
+}
+
+.left{
+width: 40%;
+height: 50px;
+color:white;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+font-weight: 600;
+font-size: 20px;
+margin-left: 45px;
+
+}
+.right{
+height: 50px;
+width: 60%;
+color:white;
+display: flex;
+justify-content: flex-end;
+align-items: center;
+gap: 50px;
+margin-right: 40px;
+font-size: 17px;
+font-weight: 400;
+}
+
+a{
+color: white;
+text-decoration: none;
+
+}
