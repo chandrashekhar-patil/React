@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.app{
+    text-align: center;
+}
+.kg-group{
+    background-color: aqua;
+    font-weight: 700;
+}
+.head{
+    font-weight: 800; 
+    color: blue;
+}
