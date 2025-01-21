@@ -1,0 +1,17 @@
+.card {
+    width: 300px;
+    height: 400px;
+    padding: 50px;
+    box-shadow: 0 0 10px rgb(73, 70, 70);
+    text-align: center;
+}
+img{
+   margin-left: 1px;
+   padding: 10px;
+}
+.card h3{
+    margin-top: 15px;
+}
+button{
+    padding: 6px;
+}

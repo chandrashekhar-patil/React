@@ -1,0 +1,7 @@
+.allProductsData{
+    margin-top: 20px;
+    padding: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}

@@ -1,0 +1,17 @@
+.NameContainer{
+    width: 600px;
+    height: 500px;
+    box-shadow: 0 0 20px red;
+    margin: 100px;
+    padding: 50px;
+}
+
+ul{
+    list-style: none;
+    padding: 40px;
+
+}
+li{
+    font-weight: 700;
+    font-size: 30px;
+}
