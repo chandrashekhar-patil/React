@@ -1,0 +1,29 @@
+/* ProductCarousel.css */
+.carousel-container {
+    max-width: 100%;
+    margin: auto;
+    padding: 10px;
+  } 
+  .swiper-slide {
+    text-align: center;
+  }
+  
+  .product-image {
+    height: 360px;
+    width: auto;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+  }
+  
+  .product-name {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 10px;
+  }
+  
+  .product-price {
+    color: green;
+    font-weight: bold;
+  }
+  

@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Apple iPhone 14",
+      "image": "https://images.unsplash.com/photo-1557821552-17105176677c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGUlMjBjb21tZXJjZXxlbnwwfHwwfHx8MA%3D%3D",
+      "price": "$799"
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy S23",
+      "image": "https://images.samsung.com/is/image/samsung/assets/in/smartphones/galaxy-a53/buy/DS231Ultra.jpg",
+      "price": "$999"
+    },
+    {
+      "id": 3,
+      "name": "Sony WH-1000XM5",
+      "image": "https://immagini.trovaprezzi.it/magazine/2022/03/Galaxy-S22-Plus-3.png?tr=w-690,h-345",
+      "price": "$399"
+    },
+    {
+      "id": 4,
+      "name": "Apple MacBook Air M2",
+      "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "price": "$1199"
+    },
+    {
+        "id": 5,
+        "name": "shoping",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "$999"
+    },
+    {
+        "id": 6,
+        "name": "Bag",
+        "image": "https://images.unsplash.com/photo-1566150905458-1bf1fc113f0d?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "price": "$399"
+      }
+  ]
+  
